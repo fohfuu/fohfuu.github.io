@@ -160,7 +160,7 @@ _(Rounded to 4 places on chart; calculated from 10 places)_
 ### Referenced game information
 Transcripts OCRed then corrected by hand, so excuse any errors. Screenshots are included for double checking (with the top bar cropped out for obvious reasons).
 
-**<details markdown='1'><summary>Banner Information</summary>**
+<details markdown='1'><summary>Banner Information</summary>
 
 Transcripts
 
@@ -285,7 +285,7 @@ Harp of Collection 0.782%<br>
 
 </details>
 
-**<details markdown='1'><summary>Twilight Crystal Packs</summary>**
+<details markdown='1'><summary>Twilight Crystal Packs</summary>
 
 Transcripts
 
@@ -335,7 +335,7 @@ Warning: this is gonna sound like ass to a screenreader. There's no way around i
 📒 = SR<br>
 ➕ = Featured SR<br>
 
-**<details markdown='1'><summary>Full Rolls</summary>**
+<details markdown='1'><summary>Full Rolls</summary>
 
 |Rolls 1 | Result |
 |---|---|
