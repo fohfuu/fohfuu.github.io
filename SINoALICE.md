@@ -3,7 +3,7 @@
 ## Summary
 
 | Roll No. | No. of 10 Rolls | Min Spend (£) | Total | Mean Rolls | Median Rolls |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 47.98 | 2 | | |
 | 2 | 1 | 23.99 | 3 | | |
 | 3 | 10 | 202.95 | 13 | | |
@@ -16,6 +16,7 @@
 | 10 | 11 | 224.96 | 51 | 5.1 (1530💎) | 4 (1200💎)|
 | | |  | | **Mean Cost** (£) | **Median Cost** (£) |
 | |  | | | **106.77** | **78.98** |
+
 💎 = Twilight Crystals<br>
 _(Rounded to 4 places on chart; calculated from 10 places)_
 
@@ -53,6 +54,7 @@ To get a best approximation of each probability, I worked with the numbers we ha
 | S | 124 | 0.161 | 19.964
 | A | 48 | 1.604 | 76.992 |
 | Total | | | 99.878 |
+
 _Pokelabo's figures are rounded to 3 decimal places and don't add up to 100%._
 
 Rather than trying to extrapolate more exact figures, I instead multiplied the percentages by 1000 and assigned rarities to ranges between 1 and 99878. This meant the percentages would stay the same, and Sophie's Dice would take care of the tricky maths.
@@ -133,13 +135,14 @@ This isn't useful for real world spending, since you don't know how many rolls y
 | x317 | 23.99 | 0.0757 | 22.7034700315 |
 | x148 (& item) | 11.99 | 0.0810 | 24.3041 |
 | x61 | 4.99 | 0.0818 | 24.2505 |
+
 _(Rounded to 4 places on chart; calculated from 10 places)_
 
 ### Best possible value for 10 rolls
 
 
 | No. 10 rolls | 💎 | Best Pack Combo | Price (£) |
-|---|---|---|
+|---|---|---| --- |
 | 1 | 300 | x317 | 23.99 |
 | 2 | 600 | 2(x317) | 47.98 |
 | 3 | 900 | x831 + 2(x61) | 64.97 |
