@@ -1,3 +1,3 @@
-**STAV22 Speaker Stands Guide**
+**about**
 
-This is a collection of some relevant info I found about B&W's STAV22 stands.
+dumping ground for anything I want to put on a website.
