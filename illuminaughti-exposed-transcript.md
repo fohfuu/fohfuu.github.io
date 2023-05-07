@@ -7,6 +7,9 @@ Based on the YouTube transcript, as it wasn't readable as a text document, and c
 Quotes describe what was displayed on screen.
 Italicised quotes are used for in-video captions._
 
+* TOC  
+
+{:toc}
 
 
 ### Introduction
