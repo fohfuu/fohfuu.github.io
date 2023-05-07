@@ -1,7 +1,13 @@
 # transcript of "illuminaughti exposed"
 version 0.9
 
-Note: Quotes describe what was displayed on screen. Italicised quotes are used for in-video captions._
+### Notes
+
+Based on the YouTube transcript, as it wasn't readable as a text document, and contained several errors (such as misheard words).  
+Quotes describe what was displayed on screen.
+Italicised quotes are used for in-video captions._
+
+
 
 ### Introduction
 
@@ -19,7 +25,7 @@ I know I like to go off on tangents and talk about various topics all the time, 
 
 The second reason is really just to keep my emotions in check.
 
-> _1. Keep me on track_
+> _1. Keep me on track_  
 > _2. Keep emotions in check._
 
 A lot of the things that I'm going to talk about in most of this video to be totally honest with you are things kind of from the past. They involve old friends, people that I used to consider close friends and I used to trust and really enjoy spending time with and kind of reopening a lot of these wounds is really painful.
@@ -58,7 +64,7 @@ I should have asked him what the emails were about, but I didn't and I made a mi
 
 Now as we continue in this video, I do wanna give you a heads up that there will be trigger warnings for various sections as needed. I also want to go ahead and let you know that I will be providing a public Google drive containing any and all relevant information that I will address in this video similar to how I provide a source document for every episode of mine.
 
-### Hbomberguy
+### Hbomberguy  
 ### Plagiarism
 
 Let's start with the first accusation and go from there.
