@@ -1,5 +1,5 @@
 # transcript of "illuminaughti exposed"
-version 1
+v1.0
 
 ### Notes
 
