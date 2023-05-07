@@ -3,14 +3,16 @@ version 0.9
 
 ### Notes
 
-Based on the YouTube transcript, as it wasn't readable as a text document, and contained several errors (such as misheard words).  
+_Based on the YouTube transcript, as it wasn't readable as a text document, and contained several errors (such as misheard words).  
 Quotes describe what was displayed on screen.
 Italicised quotes are used for in-video captions._
 
-* TOC  
 
-{:toc}
 
+* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+
+ 
+ 
 
 ### Introduction
 
