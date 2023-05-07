@@ -1,5 +1,5 @@
 # transcript of "illuminaughti exposed"
-version 0.9
+version 1
 
 ### Notes
 
@@ -7,6 +7,15 @@ _Based on the YouTube transcript, as it wasn't readable as a text document, and 
 Quotes describe what was displayed on screen.
 Italicised quotes are used for in-video captions._
 
+<details markdown='1'><summary> Edits welcome </summary>
+
+
+
+This transcript would benefit from better descriptions of on-screen images, preferably inserting a link to the relevant "evidence" included in Blair's Google Drive where relevant, and transcribing the text from those images. That's a lot of work, but would make the transcript far more accessible, so anyone willing to help would be greatly appreciated.
+  
+Download the markdown [here](https://raw.githubusercontent.com/fohfuu/fohfuu.github.io/main/illuminaughti-exposed-transcript.md)
+
+</details>
 
 
 * Placeholder for Table of Content (Must not be removed) <newline> {:toc}
